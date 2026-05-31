@@ -51,8 +51,8 @@ Passionate AI Engineer and Full Stack Developer with hands-on production experie
 
 ## 📊 GitHub Stats
 
-![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuzammilAmjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzammilAmjad&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/MuzammilAmjad?style=for-the-badge&logo=github&label=Followers)](https://github.com/MuzammilAmjad)
+[![GitHub stars](https://img.shields.io/github/stars/MuzammilAmjad?style=for-the-badge&logo=github&label=Total+Stars)](https://github.com/MuzammilAmjad)
 
 ---
 
